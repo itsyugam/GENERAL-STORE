@@ -1,16 +1,16 @@
 **Description:-**
 
--> A CUI based program for a "General Store".
+* A CLI based program for a "General Store".
 
--> Perform various task like:
+* Perform various task like:
 
- Billing,
+  * Billing
 
-store all the information of stock,
+  * store all the information of stock
 
-also you can change details of stock manually, etc. 
+  * also you can change details of stock manually and many more. 
 
-->Interface:
+* Interface:
 
 **Main Menu**
 
